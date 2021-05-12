@@ -5,24 +5,23 @@ Desktop application for hospital management
 
 ## ADMIN MODULE
 	
-  1. Login
- 
-	2. Manage Employees
+- 1. Login
+- 2. Manage Employees
   -	Add Employee
   -	Update Employee
   -	Remove Employee
   -	Show Employee
-	3. Manage Doctors
+- 3. Manage Doctors
   -	Add Doctor
   -	Update Doctor
   -	Remove Doctor
   -	Show Doctor
-	4. Manage Receptionist
+- 4. Manage Receptionist
   -	Add Receptionist
   -	Update Receptionist
   -	Remove Receptionist
   -	Show Receptionist
-	5. View Patients 
+- 5. View Patients 
 
 ## RECEPTIONIST MODULE
   1.	Login
